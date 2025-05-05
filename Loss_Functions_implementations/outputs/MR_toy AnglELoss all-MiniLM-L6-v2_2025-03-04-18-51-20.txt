@@ -1,0 +1,19 @@
+(639,) (639,) (71,) (71,) (355,) (355,)
+2
+No. of training examples: 638
+Batch Size: 128 Warmup Step: 10 Rate: 3.26e-05 Epoch: 2 Iter: 11 Sigma: 0.2897
+Epoch 0 took 2.20 seconds.
+Epoch:0, Validation Accuracy:0.7324, validation F1-score:0.7315, Test Accuracy:0.6704, Test F1-score:0.6698
+New best validation accuracy: 0.7324 at epoch 0, saving model...
+{'train_runtime': 4.6456, 'train_samples_per_second': 137.336, 'train_steps_per_second': 1.076, 'train_loss': 12.244557189941407, 'epoch': 1.0}
+Epoch 0 - Training Loss: 61.2228
+Epoch 1 took 1.46 seconds.
+Epoch:1, Validation Accuracy:0.7324, validation F1-score:0.7315, Test Accuracy:0.6676, Test F1-score:0.6673
+New best validation accuracy: 0.7324 at epoch 1, saving model...
+{'train_runtime': 1.6562, 'train_samples_per_second': 385.229, 'train_steps_per_second': 3.019, 'train_loss': 11.739688873291016, 'epoch': 1.0}
+Epoch 1 - Training Loss: 58.6984
+Total training time: 7.50 seconds.
+Best Validation Accuracy: 0.7323943661971831 at Epoch: 0
+Validation F1-Score at Best Val Accuracy: 0.7315422885572139
+Test Accuracy Corresponding to Best Val Accuracy Epoch: 0.6704225352112676
+F1-score Corresponding to Best Val Accuracy Epoch: 0.6697516876177755

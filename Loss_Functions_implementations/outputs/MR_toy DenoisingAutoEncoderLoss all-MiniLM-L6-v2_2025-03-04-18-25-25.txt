@@ -1,0 +1,4 @@
+(639,) (639,) (71,) (71,) (355,) (355,)
+2
+No. of training examples: 638
+Batch Size: 128 Warmup Step: 10 Rate: 3.26e-05 Epoch: 2 Iter: 11 Sigma: 0.2897

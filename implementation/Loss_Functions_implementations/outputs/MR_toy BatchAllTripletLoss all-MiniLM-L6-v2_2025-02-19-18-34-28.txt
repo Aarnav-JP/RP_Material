@@ -1,0 +1,59 @@
+(639,) (639,) (71,) (71,) (355,) (355,)
+2
+No. of training examples: 639
+Batch Size: 128 Warmup Step: 10 Rate: 326000.0 Epoch: 10 Iter: 11 Sigma: 0.2897
+Epoch 0 took 1.99 seconds.
+Epoch:0, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 0, saving model...
+{'train_runtime': 2.8691, 'train_samples_per_second': 222.716, 'train_steps_per_second': 1.743, 'train_loss': 0.44524326324462893, 'epoch': 1.0}
+Epoch 0 - Training Loss: 0.0000
+Epoch 1 took 0.94 seconds.
+Epoch:1, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 1, saving model...
+{'train_runtime': 0.7881, 'train_samples_per_second': 810.82, 'train_steps_per_second': 6.344, 'train_loss': 0.0, 'epoch': 1.0}
+Epoch 1 - Training Loss: 0.0000
+Epoch 2 took 0.89 seconds.
+Epoch:2, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 2, saving model...
+{'train_runtime': 2.3076, 'train_samples_per_second': 276.916, 'train_steps_per_second': 2.167, 'train_loss': 0.0, 'epoch': 1.0}
+Epoch 2 - Training Loss: 0.0000
+Epoch 3 took 0.91 seconds.
+Epoch:3, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 3, saving model...
+{'train_runtime': 0.8324, 'train_samples_per_second': 767.623, 'train_steps_per_second': 6.006, 'train_loss': 0.0, 'epoch': 1.0}
+Epoch 3 - Training Loss: 0.0000
+Epoch 4 took 0.90 seconds.
+Epoch:4, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 4, saving model...
+{'train_runtime': 2.2342, 'train_samples_per_second': 286.006, 'train_steps_per_second': 2.238, 'train_loss': 0.0, 'epoch': 1.0}
+Epoch 4 - Training Loss: 0.0000
+Epoch 5 took 1.05 seconds.
+Epoch:5, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 5, saving model...
+{'train_runtime': 0.7639, 'train_samples_per_second': 836.544, 'train_steps_per_second': 6.546, 'train_loss': 0.0, 'epoch': 1.0}
+Epoch 5 - Training Loss: 0.0000
+Epoch 6 took 0.85 seconds.
+Epoch:6, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 6, saving model...
+{'train_runtime': 2.2086, 'train_samples_per_second': 289.319, 'train_steps_per_second': 2.264, 'train_loss': 0.0, 'epoch': 1.0}
+Epoch 6 - Training Loss: 0.0000
+Epoch 7 took 0.86 seconds.
+Epoch:7, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 7, saving model...
+{'train_runtime': 0.8242, 'train_samples_per_second': 775.314, 'train_steps_per_second': 6.067, 'train_loss': 0.0, 'epoch': 1.0}
+Epoch 7 - Training Loss: 0.0000
+Epoch 8 took 1.25 seconds.
+Epoch:8, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 8, saving model...
+{'train_runtime': 2.2616, 'train_samples_per_second': 282.539, 'train_steps_per_second': 2.211, 'train_loss': 0.0, 'epoch': 1.0}
+Epoch 8 - Training Loss: 0.0000
+Epoch 9 took 0.95 seconds.
+Epoch:9, Validation Accuracy:0.5070, validation F1-score:0.3364, Test Accuracy:0.4986, Test F1-score:0.3327
+New best validation accuracy: 0.5070 at epoch 9, saving model...
+{'train_runtime': 0.7732, 'train_samples_per_second': 826.435, 'train_steps_per_second': 6.467, 'train_loss': 0.0, 'epoch': 1.0}
+Epoch 9 - Training Loss: 0.0000
+Total training time: 20.82 seconds.
+Best Validation Accuracy: 0.5070422535211268 at Epoch: 0
+Validation F1-Score at Best Val Accuracy: 0.3364485981308411
+Test Accuracy Corresponding to Best Val Accuracy Epoch: 0.49859154929577465
+F1-score Corresponding to Best Val Accuracy Epoch: 0.33270676691729323
